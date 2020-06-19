@@ -45,7 +45,7 @@ def third_challenge
         :Steven => {
           name: "Steven",
           age: "30",
-          attitude:
+          attitude: "confused"
         },
         :Nurse => {
           name:
