@@ -22,7 +22,7 @@ def third_challenge
         }
         :Mercutio => {
           name: "Mercutio",
-          age: 
+          age: "18",
           attitude:
         }
         ]
