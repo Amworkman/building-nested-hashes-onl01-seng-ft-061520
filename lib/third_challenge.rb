@@ -17,8 +17,8 @@ def third_challenge
       :hero_friends => [
         :Benvolio => {
           name: "Benvolio",
-          age: 
-          attitude:
+          age: "17",
+          attitude: 
         }
         :Mercutio => {
           name:
